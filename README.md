@@ -15,7 +15,7 @@ Instruções para entrega
 - Laços de repetição
   
 - Estruturas de decisões
-- 
+  
 
 ## Objetivo
 
