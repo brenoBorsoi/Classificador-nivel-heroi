@@ -43,6 +43,6 @@ if (xpHeroi <= 1000) {
 } else if (xpHeroi >= 9001 && xpHeroi <= 10000) {
     console.log("O herói de nome " + nomeHeroi + " está no nível de Imortal");
 } else if (xpHeroi >= 10001) {
-    console.log("O herói de nome " + nomeHeroi + " está no nível de Radiante");
+    console.log("O herói de nome " + nomeHeroi + " está no nível de Radiante ");
      
 }
